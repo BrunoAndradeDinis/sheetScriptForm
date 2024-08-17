@@ -34,6 +34,9 @@ No menu superior, clique em "Extensões" -> "Apps Script".
 - HTML com Bootstrap
 - Google Scripts
 
+## :books: Nota
+Devido a ser utilizada no ambito empresarial, optamos por não deixar compartilhado o acesso a planilha.
+
 ## :handshake: Colaboradores
 <table>
   <th>
