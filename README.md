@@ -48,8 +48,6 @@ Devido a ser utilizada no ambito empresarial, optamos por não deixar compartilh
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="http://github.com/Azrael-webdesign">
         <img src="https://avatars.githubusercontent.com/u/135350232?v=4" width="100px;" alt="Foto de Bruno de Andrade no GitHub"/><br>
